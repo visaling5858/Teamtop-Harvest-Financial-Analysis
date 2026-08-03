@@ -1,0 +1,11 @@
+Delete old files first:
+README.md
+index.html
+capital.html
+expenses.html
+business.html
+insights.html
+404.html
+assets folder
+
+Then upload every file from this package to the repository root.
