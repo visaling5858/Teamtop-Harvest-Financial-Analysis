@@ -1,8 +1,10 @@
 # Teamtop Harvest Financial Analysis BI Dashboard
 
-Single-file static GitHub Pages display package matched to the current Sites BI format.
+GitHub Pages 财务分析看板，当前数据期为 2026 年 7 月当月及 2026 年 1—7 月累计。
 
-Upload all HTML files to the repository root. No assets folder is required for this display package.
+五个页面共享 `dashboard-data.js` 和 `dashboard.js`，避免月份、指标和图表分别维护产生口径漂移。
 
-Open after deployment:
-https://visaling5858.github.io/Teamtop-Harvest-Financial-Analysis/insights.html
+数据来源：`月度财务分析报告基础数据（2026-07）.xlsx`。
+
+部署后入口：
+https://visaling5858.github.io/Teamtop-Harvest-Financial-Analysis/

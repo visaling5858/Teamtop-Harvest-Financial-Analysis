@@ -1,11 +1,11 @@
-Delete old files first:
-README.md
-index.html
-capital.html
-expenses.html
-business.html
-insights.html
-404.html
-assets folder
+Deploy the repository root with GitHub Pages.
 
-Then upload every file from this package to the repository root.
+Required shared files:
+- dashboard.css
+- dashboard-data.js
+- dashboard.js
+
+Current period checks:
+- 202607 month
+- 2026 Jan-Jul YTD
+- insights.html#data-update
